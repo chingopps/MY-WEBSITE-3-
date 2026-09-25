@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    min-height: 100vh;
+}
+
+.text {
+    color: blue;
+}
+
+.image {
+	padding: 300px 100px;
+gap: 50px;
+    height: 800px;
+    width: 800px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
